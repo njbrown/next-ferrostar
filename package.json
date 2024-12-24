@@ -13,7 +13,7 @@
     "@stadiamaps/ferrostar-webcomponents": "^0.25.0",
     "next": "^15.1.1-canary.18",
     "react": "^19.1.0-canary-6907aa2a-20241220",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0-canary-6907aa2a-20241220"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
